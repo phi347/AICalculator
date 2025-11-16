@@ -36,7 +36,7 @@ A sleek, functional, and modern web-based calculator. This project was developed
 
  ## Screenshot
 
-<img src="https://raw.githubusercontent.com/phi347/AICalculator/main/img.png" alt="Modern Calculator App Screenshot" width="600"/>
+<img src="https://raw.githubusercontent.com/phi347/AICalculator/main/img.png" alt="Modern Calculator App Screenshot" width="300"/>
 
 
  ## Getting Started
