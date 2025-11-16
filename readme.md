@@ -60,19 +60,19 @@ A modern web browser.
 
 1 .  Clone this repository:
 
-&nbsp;   ```bash
+    ```bash
 
-&nbsp;   git clone https://github.com/phi347/modern-calculator.git
+    git clone https://github.com/phi347/modern-calculator.git
 
-&nbsp;   ```
+    ```
 
 2 .  Navigate to the directory:
 
-&nbsp;   ```bash
+    ```bash
 
-&nbsp;   cd modern-calculator
+    cd modern-calculator
 
-&nbsp;   ```
+    ```
 
 3 .  Open `index.html` in your browser.
 
