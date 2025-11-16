@@ -1,4 +1,4 @@
-\# Modern Calculator App
+ # Modern Calculator App
 
 
 
@@ -6,47 +6,47 @@ A sleek, functional, and modern web-based calculator. This project was developed
 
 
 
-\## Features
+ ## Features
 
 
 
-\-   \*\*Clean and Intuitive UI:\*\* User-friendly and visually appealing.
+ -    * *Clean and Intuitive UI: * * User-friendly and visually appealing.
 
-\-   \*\*Basic Arithmetic:\*\* Supports addition, subtraction, multiplication, and percentage.
+ -    * *Basic Arithmetic: * * Supports addition, subtraction, multiplication, and percentage.
 
-\-   \*\*Responsive Design:\*\* Adapts to various screen sizes.
+ -    * *Responsive Design: * * Adapts to various screen sizes.
 
-\-   \*\*Clear Display:\*\* Shows both current expression and result.
+ -    * *Clear Display: * * Shows both current expression and result.
 
-\-   \*\*Error Handling:\*\* Basic error management for calculations.
-
-
-
-\## Technologies
+ -    * *Error Handling: * * Basic error management for calculations.
 
 
 
-\-   \*\*HTML5\*\*
-
-\-   \*\*CSS3\*\*
-
-\-   \*\*JavaScript (ES6+)\*\*
+ ## Technologies
 
 
 
-\## Screenshot
+ -    * *HTML5 * *
+
+ -    * *CSS3 * *
+
+ -    * *JavaScript (ES6+) * *
 
 
 
-!\[Modern Calculator App Screenshot](img.png)
+ ## Screenshot
 
 
 
-\## Getting Started
+! [Modern Calculator App Screenshot](img.png)
 
 
 
-\### Prerequisites
+ ## Getting Started
+
+
+
+ ### Prerequisites
 
 
 
@@ -54,11 +54,11 @@ A modern web browser.
 
 
 
-\### Installation
+ ### Installation
 
 
 
-1\.  Clone this repository:
+1 .  Clone this repository:
 
 &nbsp;   ```bash
 
@@ -66,7 +66,7 @@ A modern web browser.
 
 &nbsp;   ```
 
-2\.  Navigate to the directory:
+2 .  Navigate to the directory:
 
 &nbsp;   ```bash
 
@@ -74,23 +74,23 @@ A modern web browser.
 
 &nbsp;   ```
 
-3\.  Open `index.html` in your browser.
+3 .  Open `index.html` in your browser.
 
 
 
-\## Usage
+ ## Usage
 
 
 
-\-   Input numbers and operators by clicking the respective buttons.
+ -   Input numbers and operators by clicking the respective buttons.
 
-\-   `C` clears the display.
+ -   `C` clears the display.
 
-\-   `+/-` toggles the sign.
+ -   `+/-` toggles the sign.
 
-\-   `=` calculates the result.
+ -   `=` calculates the result.
 
 
 
-\## Project Structure
+ ## Project Structure
 
